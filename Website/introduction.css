@@ -1,0 +1,114 @@
+body{
+    background-color: #d9d9d9;
+}
+
+
+.border{
+    background-color: white;
+    top:0;
+    width:100%;
+    height:100px;
+}
+h1{
+  margin-left: 20%;
+  margin-top: 50px;
+  text-align: center;
+}
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 756px;
+  margin-top: 11px;
+  width: 773px;
+}
+.bar{
+  background: transparent;
+  width: 40%;
+  height: 40px;
+  border-radius: 40px;
+}
+ 
+.logo {
+  width: 70px;
+  height: 70px;
+  margin-top: 14px;
+  margin-left: -510px;
+  margin-right: -50%;
+}
+ .logo2{
+  margin-top: 100px;
+  margin-left:700px;
+  
+ }
+  .Pic {
+    width: 25%;
+    float: left;
+    margin-top: 10%;
+    margin-left: 58px;
+}
+
+.Home{
+  color: rgb(5, 5, 5);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 100%;
+  margin-bottom: 70px;
+  text-decoration: none;
+
+}
+.Home:hover {
+color: rgb(104, 187, 255);
+}
+
+.Contact{
+  color: rgb(0, 0, 0);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 100%;
+  margin-bottom: 70px;
+  text-decoration: none;
+}
+.Contact:hover {
+  color: rgb(251, 255, 42);
+  }
+
+  
+.Profile{
+  color: rgb(14, 13, 14);
+  transition: color 0.2s;
+  height: 30px;
+  width: 30px;
+  font-size: 50px;
+  margin-top: 100%;
+  margin-bottom: 70px;
+  text-decoration: none;
+}
+.Profile:hover {
+  color: rgb(199, 199, 185);
+  }
+  .Project{
+    color: rgb(14, 13, 14);
+    transition: color 0.2s;
+    height: 30px;
+    width: 50px;
+    font-size: 50px;
+    margin-top: 100%;
+    margin-bottom: 70px;
+    text-decoration: none;
+  }
+  .Project:hover {
+    color: rgb(77, 204, 94);
+  }
+.image {
+    margin-top: 142px;
+    margin-left: -321px;
+}
+.Icon {
+  margin-top: -76px;
+  margin-bottom: 10px;
+  margin-left: 1607px;
+  width: 273px;
+}
